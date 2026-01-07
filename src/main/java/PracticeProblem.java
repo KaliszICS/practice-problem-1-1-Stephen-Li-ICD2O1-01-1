@@ -20,8 +20,4 @@ public class PracticeProblem {
 		//Write question 4 code here
 	}
 
-	public static void q5() {
-		//Write question 5 code here
-	}
-
 }
